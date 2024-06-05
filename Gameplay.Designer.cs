@@ -1,11 +1,3 @@
-﻿/*
- * Created by SharpDevelop.
- * User: nec
- * Date: 5/26/2024
- * Time: 3:15 AM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
 namespace MathQuest_final
 {
 	partial class Gameplay
