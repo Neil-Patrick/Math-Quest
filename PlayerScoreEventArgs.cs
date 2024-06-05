@@ -1,11 +1,3 @@
-﻿/*
- * Created by SharpDevelop.
- * User: Administrator
- * Date: 5/27/2024
- * Time: 8:17 PM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
 using System;
 
 namespace MathQuest_final
