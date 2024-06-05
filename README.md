@@ -2,18 +2,27 @@ Math Quest
 
 Overview
 
-Math Quest is an engaging Windows Forms application designed to help users, particularly young students, improve fundamental arithmetic skills through interactive gameplay. Developed by Vincent P. Landicho, Neil Patrick M. Pajadan, and Gabrielle B. Moneva, the game presents math problems in a fun pirate-themed environment, making learning enjoyable and captivating.
-
+Math Quest is an engaging Windows Forms application designed to help users, particularly young students, improve fundamental arithmetic skills through interactive gameplay. Developed by Vincent P. Landicho, Neil Patrick M. Pajadan, and Gabrielle B. Moneva, the game presents math problems in a fun pirate-themed environment, making learning enjoyable and captivating
 
 Features
+
 Vintage graphics and animations
+
 Customizable difficulty levels (Easy, Normal, Hard)
+
 Four arithmetic operations (Addition, Subtraction, Multiplication, Division)
+
 Unique arithmetical logic system developed by the team
+
 Leaderboard feature to track scores
+
 Sound control (Mute/Unmute)
+
 Timer functionality to add urgency to gameplay
+
 User-friendly interface with intuitive navigation
+
+
 Installation
 To install Math Quest, simply download the latest release from the GitHub repository and extract the files to your desired location on your Windows computer. Then, double-click the executable file to launch the game.
 
