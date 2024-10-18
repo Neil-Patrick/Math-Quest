@@ -617,7 +617,7 @@ namespace MathQuest_final
             // Check for collision with any result label
             CheckForCollisions(PlayerPic,Resultlbl);
         }
-       private void playerHealth()
+       	private void playerHealth()
 		{
 		    if (playerHP == 2)
 		    {
@@ -804,7 +804,7 @@ namespace MathQuest_final
 		}
 
 		
-		    protected virtual void OnPlayerScoreSaved(string playerName, int score)
+		protected virtual void OnPlayerScoreSaved(string playerName, int score)
         {
 		    	
 		    	if (PlayerScoreSaved != null)
@@ -815,7 +815,7 @@ namespace MathQuest_final
 
         
 
-		 private async Task SaveScoreToFileAsync(string playerName, int score)
+		private async Task SaveScoreToFileAsync(string playerName, int score)
 		{
 		    string filePath = "leaderboard.txt";
 		     try

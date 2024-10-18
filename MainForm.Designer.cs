@@ -1,4 +1,4 @@
-namespace MathQuest_final
+﻿namespace MathQuest_final
 {
 	partial class MainForm
 	{
