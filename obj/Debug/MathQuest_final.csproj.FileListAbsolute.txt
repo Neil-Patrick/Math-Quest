@@ -1,0 +1,45 @@
+C:\Users\nec\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\bin\Debug\MathQuest_final.exe
+C:\Users\nec\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\bin\Debug\MathQuest_final.pdb
+C:\Users\nec\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.csprojResolveAssemblyReference.cache
+C:\Users\nec\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.MainForm.resources
+C:\Users\nec\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.csproj.GenerateResource.Cache
+C:\Users\nec\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.exe
+C:\Users\nec\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.pdb
+C:\Users\nec\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.Gameplay.resources
+C:\Users\nec\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.ResourceImage.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\bin\Debug\MathQuest_final.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\bin\Debug\MathQuest_final.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.Gameplay.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.MainForm.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.ResourceImage.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.pdb
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\bin\Debug\MathQuest_final.exe
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\bin\Debug\MathQuest_final.pdb
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.Gameplay.resources
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.MainForm.resources
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.ResourceImage.resources
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.csproj.GenerateResource.Cache
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.exe
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final\MathQuest_final\obj\Debug\MathQuest_final.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final(true copy)\MathQuest_final\bin\Debug\MathQuest_final.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final(true copy)\MathQuest_final\bin\Debug\MathQuest_final.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.Gameplay.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.MainForm.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.ResourceImage.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.pdb
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final(true copy)-20240605T005710Z-001\MathQuest_final(true copy)\MathQuest_final\bin\Debug\MathQuest_final.exe
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final(true copy)-20240605T005710Z-001\MathQuest_final(true copy)\MathQuest_final\bin\Debug\MathQuest_final.pdb
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final(true copy)-20240605T005710Z-001\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final(true copy)-20240605T005710Z-001\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.Gameplay.resources
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final(true copy)-20240605T005710Z-001\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.MainForm.resources
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final(true copy)-20240605T005710Z-001\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.ResourceImage.resources
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final(true copy)-20240605T005710Z-001\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.csproj.GenerateResource.Cache
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final(true copy)-20240605T005710Z-001\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.exe
+C:\Users\Pat\Documents\SharpDevelop Projects\MathQuest_final(true copy)-20240605T005710Z-001\MathQuest_final(true copy)\MathQuest_final\obj\Debug\MathQuest_final.pdb
