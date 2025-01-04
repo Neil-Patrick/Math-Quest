@@ -40,3 +40,8 @@ Vincent P. Landicho
 Neil Patrick M. Pajadan
 
 Gabrielle B. Moneva
+
+
+## License
+
+This project is licensed under the MIT License.
